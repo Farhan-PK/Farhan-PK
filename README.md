@@ -1,5 +1,5 @@
 -  👋 Hi, i am **Muhammad Farhan Bashir**
 - 👀 I’m interested in ... **Learning New Technologys**
 - 🌱 I’m currently learning ...**JavaScript (React & React Native)**
-- 👯 I’m looking to collaborate on ...[Linkedin](https://www.linkedin.com/in/farhanbashirseyal/ "Muhammad Farhan Bashir")
+- 👯 I’m looking to collaborate on ...  [Linkedin](https://www.linkedin.com/in/farhanbashirseyal/ "Muhammad Farhan Bashir")
 - 📫 How to reach me: ...Just DM, open to collaborate
